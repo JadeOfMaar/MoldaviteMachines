@@ -1,4 +1,4 @@
-# MoldaviteMachines
+# Moldavite Machines
 Loosely SSPX-alike parts for all life support systems.
 ![preview](https://i.imgur.com/DNxfej8.png)
 
@@ -9,3 +9,9 @@ Introduces two weightless resources:
 * **Photoculture** (representing microbe life which specializes in feeding on Carbon Dioxide and producing Carbon-based useful chemicals). This is held and produced in the Photobioreactors.
 
 Designed for use with TAC life support and Interstellar Flight Inc (IFI) life support.
+
+##Initial Compatibility
+- B9 Part Switch
+	- Simple Repaint
+- TAC life support
+- RealFuels
