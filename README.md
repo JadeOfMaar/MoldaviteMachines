@@ -10,8 +10,8 @@ Introduces two weightless resources:
 
 Designed for use with TAC life support and Interstellar Flight Inc (IFI) life support.
 
-##Initial Compatibility
+## Initial Compatibility
 - B9 Part Switch
 	- Simple Repaint
 - TAC life support
-- RealFuels
+- Real Fuels
