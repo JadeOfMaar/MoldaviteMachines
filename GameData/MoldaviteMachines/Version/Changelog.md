@@ -1,5 +1,8 @@
 # Moldavite Machines
 
+## 1.2.1
+* Fixed rails offset error in 2.5m model.
+
 ## 1.2
 * Added USI life support.
 * Added Kerbalism support.
