@@ -1,8 +1,15 @@
 # Moldavite Machines
 
-## 1.2
+## 1.3
 * Added 1.875m greenhouse, algae farm, bioreactor.
 * Added flags and agency config.
+
+## 1.2.1
+* Fixed rails offset error in 2.5m model.
+
+## 1.2
+* Added USI life support.
+* Added Kerbalism support.
 
 ## 1.1
 * Added Snacks support.
