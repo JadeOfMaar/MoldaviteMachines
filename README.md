@@ -1,6 +1,6 @@
 # Moldavite Machines
 Loosely SSPX-alike parts for all life support systems.
-![preview](https://i.imgur.com/DNxfej8.png)
+![preview](https://i.imgur.com/JEYdhiW.png)
 
 This mod provides new, freely licensed greenhouse parts as alternative to the tried and true, but aged, ZZZ greenhouse and other parts from that era.
 
@@ -10,8 +10,12 @@ Introduces two weightless resources:
 
 Designed for use with TAC life support and Interstellar Flight Inc (IFI) life support.
 
-## Initial Compatibility
+## Bundled Compatibility
 - B9 Part Switch
-	- Simple Repaint
+  - Simple Repaint
+- Snacks!
 - TAC life support
 - Real Fuels
+- USI life support
+- Kerbalism
+
