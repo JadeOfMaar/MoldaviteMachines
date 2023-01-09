@@ -1,5 +1,10 @@
 # Moldavite Machines
 
+## 1.3.1 WIP
+* Allowed for easily adjusting refPower in parts. This means converter scaling can be adjusted easily.
+* Fixed: Stock resource converter modules not removed when Kerbalism installed.
+* Updated door mesh.
+
 ## 1.3
 * Added 1.875m greenhouse, algae farm, bioreactor.
 * Added flags and agency config.
