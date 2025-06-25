@@ -1,9 +1,12 @@
 # Moldavite Machines
 
-## 1.3.1 WIP
+## 1.4.0
 * Allowed for easily adjusting refPower in parts. This means converter scaling can be adjusted easily.
 * Fixed: Stock resource converter modules not removed when Kerbalism installed.
 * Updated door mesh.
+* Updated Kerbalism support:
+  * Replaced Ore input with Minerals for Algae and Photoculture production.
+  * Increase greenhouse module rates by 4x.
 
 ## 1.3
 * Added 1.875m greenhouse, algae farm, bioreactor.
