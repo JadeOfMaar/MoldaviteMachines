@@ -1,5 +1,8 @@
 # Moldavite Machines
 
+## 1.4.1
+* Fixed part targeting error that caused the 1.875m parts to be left out from patching.
+
 ## 1.4.0
 * Allowed for easily adjusting refPower in parts. This means converter scaling can be adjusted easily.
 * Fixed: Stock resource converter modules not removed when Kerbalism installed.
