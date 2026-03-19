@@ -1,5 +1,18 @@
 # Moldavite Machines
 
+## 1.5
+* Added Chinese localization (before the tanks were made) from modder Aebestach.
+* Added capsule tank suite.
+  * Added Resurfaced support.
+  * Added VABO support.
+  * Added FreeIVA detection.
+  * Added partial GPTT support.
+* Added full Tweakscale support.
+* Fixed Simple Repaint issue.
+* Made Algae and Photoculture (System Heat boiloff) sensitive.
+* Made Algae production slower and more efficient.
+* Made Photoculture production slower.
+
 ## 1.4.1
 * Fixed part targeting error that caused the 1.875m parts to be left out from patching.
 
