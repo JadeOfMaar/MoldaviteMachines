@@ -1,7 +1,7 @@
 # Moldavite Machines
 
 ## 1.5.1
-*  Fixed model offset bug in 5m tank.
+* Fixed model offset bug in 5m tank.
 
 ## 1.5
 * Added Chinese localization (before the tanks were made) from modder Aebestach.
